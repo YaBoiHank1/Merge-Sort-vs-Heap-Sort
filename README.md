@@ -1,4 +1,4 @@
-Project Overview of Merge Sort VS Heap Sort
+### Project Overview of Merge Sort VS Heap Sort
 
 In this project, we compare the performance of three sorting algorithms, Merge Sort, Heap
 Sort, and a variation called Double Pop Heap Sort. All
@@ -17,3 +17,7 @@ evaluation of performance. By comparing these algorithms,
 this project aims to highlight the difference between theoretical
 efficiency and real-world performance and to provide a better
 understanding of how algorithm design affects execution time.
+
+### How to run
+
+Open the Jupyter notebook and click 'run all'
